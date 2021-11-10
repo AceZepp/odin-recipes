@@ -1,0 +1,19 @@
+p {
+  background-color: #daa;
+  font-family: Verdana, sans-serif;
+}
+
+#blue {
+  color: #11f;
+  font-size: 36px;
+}
+
+.big {
+  font-size: 24px;
+}
+
+#green {
+  background: #9c9;
+  font-size: 24px;
+  font-weight: bold;
+}
