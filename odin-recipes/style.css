@@ -23,10 +23,14 @@ img {
 h1, h2{
   text-align: center;
   color: #eee;
-  margin: 0;
+  font-size: 40px;
+  font-family: Helvetica, sans-serif;
 }
 
 ul {
+  font-size: 20px;
+  font-family: "Courier New", monospace;
+  font-weight: 600;
   text-align: left;
 }
 
@@ -39,12 +43,16 @@ a{
   padding: 20px;
   text-decoration: none;
   color: #eee;
+  font-family: "Brush Script MT", cursive;
+  font-weight: lighter;
 }
 
 ol {
   border-top: 1px solid #eee;
   text-align: center;
   height: 50%;
+  font-family: Papyrus, fantasy;
+  font-size: 25px;
 }
 
 footer {
@@ -52,4 +60,5 @@ footer {
   color: #eee;
   text-align: center;
   font-size: 10px;
+  font-family: Monaco, monospace;
 }
